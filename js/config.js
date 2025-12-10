@@ -1,4 +1,4 @@
 const CONFIG = {
-  API_URL: "https://api.yourdomain.com",
-  IMAGE_URL: "https://img.yourdomain.com"
+  API_URL: "http://localhost:3000",
+  IMAGE_URL: "http://localhost:9000"
 };
